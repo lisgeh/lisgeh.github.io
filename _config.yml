@@ -1,5 +1,5 @@
 # Site settings
-title: Produktionsbüro Lisa R. Gehring
+title: Produktionsbüro Lisa Gehring
 email: lisgeh@gmail.com
 url: http://lisagehring.de
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: E0E0E0 #18bc9c #80B3FF
+  primary-rgb: 404040 #"24,288,156" #"128,179,255"
+  secondary: 000033 #2c3e50 #FD6E8A
+  secondary-dark: 404040 #233140 #A2122F
 
 # Footer settings
 footer:
