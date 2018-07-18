@@ -32,9 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Lisa Gehring
   location: Impressum
-  #social: Around the Web
+  social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,6 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Lisa Gehring
   - line: Werftstraße 11
   - line: 60327 Frankfurt am Main
 
