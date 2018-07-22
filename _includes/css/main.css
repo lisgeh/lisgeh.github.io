@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
 }
 
 h1,
@@ -100,7 +100,7 @@ header .intro-text .name {
     display: block;
     /*text-transform: uppercase;*/
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: 700;
 }
 
@@ -116,7 +116,7 @@ header .intro-text .skills {
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 4em;
     }
 
     header .intro-text .skills {
@@ -181,7 +181,7 @@ section h2 {
 }
 
 section.success {
-    color: #202020;
+    color: #404040;
     background: #{{ site.color.primary }};
 }
 
@@ -446,7 +446,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.secondary }} !important;
 }
 
 /* Fix modal mouse wheel issues */
