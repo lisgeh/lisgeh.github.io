@@ -6,6 +6,8 @@
 
 body {
     overflow-x: hidden;
+    font-family: "Source Sans Pro", Garamond, serif;
+    color: black;
 }
 
 p {
@@ -22,7 +24,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 h1,
@@ -31,59 +33,36 @@ h3,
 h4,
 h5,
 h6 {
+    font-weight: normal;
+    font-family: "Source Sans Pro", Garamond, serif;
+    color: black;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
-hr.star-light,
-hr.star-primary {
-    margin: 25px auto 30px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 5px;
-    text-align: center;
-    overflow: visible;
-}
-
-hr.star-light:after,
-hr.star-primary:after {
-    content: "\f005";
-    display: inline-block;
-    position: relative;
-    top: -.8em;
-    padding: 0 .25em;
-    font-family: FontAwesome;
-    font-size: 2em;
-}
-
-hr.star-light {
-    border-color: #fff;
-}
-
-hr.star-light:after {
-    color: #fff;
-    background-color: #{{ site.color.primary }};
-}
-
-hr.star-primary {
-    border-color: #{{ site.color.secondary }};
-}
-
-hr.star-primary:after {
-    color: #{{ site.color.secondary }};
-    background-color: #fff;
+.bg--white {
+  background-color: white;
 }
 
 .img-centered {
     margin: 0 auto;
 }
 
-header {
-    text-align: center;
-    color: #404040;
-    background: #{{ site.color.primary }};
+.profilbild {
+  height: 250px;
+  border-radius: 50%;
+  margin: 50px auto;
+}
+
+hr {
+  border-color: black;
+  border-width: 3.5px;
+  width: 110px;
+  margin-bottom: 40px;
+}
+
+header, section#contact {
+  background-image: url(img/rippe.png)
 }
 
 header .container {
@@ -96,23 +75,20 @@ header img {
     margin: 0 auto 20px;
 }
 
-header .intro-text .name {
-    display: block;
-    /*text-transform: uppercase;*/
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1.8em;
-    font-weight: 700;
+header .intro-text{
+    text-align: center;
 }
 
-header .intro-text .skills {
-    font-size: 1.25em;
-    font-weight: 300;
-}
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
+        margin-top: 230px;
+        padding-top: 40px;
         padding-bottom: 100px;
+    }
+
+    section#contact{
+      padding-top: 60px;
     }
 
     header .intro-text .name {
@@ -126,14 +102,14 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 100px 0 25px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 1,5em;
+        font-size: 1.75em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -149,9 +125,9 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    background-image: url(/img/theater.jpg);
+    background-position: left bottom;
+    background-size:cover;
 }
 
 .navbar a:focus {
@@ -178,11 +154,6 @@ section {
 section h2 {
     margin: 0;
     font-size: 3em;
-}
-
-section.success {
-    color: #404040;
-    background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
@@ -212,7 +183,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba(255,255,255,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -254,9 +225,8 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #{{ site.color.primary }};
     font-size: 20px;
-    color: #fff;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -289,6 +259,7 @@ section.success {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+    background-color: white;
 }
 
 .floating-label-form-group label {
@@ -319,24 +290,15 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #{{ site.colors.blue }};
 }
 
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
 }
 
-footer {
-    color: #fff;
-}
-
-footer h3 {
-    margin-bottom: 30px;
-}
-
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
 }
 
 footer .footer-col {
@@ -345,7 +307,8 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #3D9970;
+    color: #fff;
 }
 
 .btn-social {
@@ -429,7 +392,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.colors.blue }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -439,14 +402,34 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary}};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 
-.navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary }} !important;
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:active,
+.navbar-default .navbar-nav>.active>a:focus  {
+    background-color: #{{ site.color.primary}} !important;
+}
+
+.navbar-default .navbar-nav>li>a,
+.navbar-default a.navbar-brand,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default a.navbar-brand:focus{
+  border-top: 1px solid rgba(255,255,255,0);
+  border-bottom: 1px solid rgba(255,255,255,0);
+  color:white;
+}
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:active,
+.navbar-default a.navbar-brand:hover,
+.navbar-default a.navbar-brand:active {
+  color:white;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
 }
 
 /* Fix modal mouse wheel issues */
