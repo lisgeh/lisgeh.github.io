@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Source Sans Pro", Garamond, serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: black;
 }
 
@@ -34,7 +34,7 @@ h4,
 h5,
 h6 {
     font-weight: normal;
-    font-family: "Source Sans Pro", Garamond, serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: black;
     text-transform: uppercase;
     font-weight: 700;
