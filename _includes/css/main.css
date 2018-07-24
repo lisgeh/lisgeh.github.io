@@ -1,12 +1,6 @@
-/*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 body {
     overflow-x: hidden;
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Open Sans", sans-serif;
     color: black;
 }
 
@@ -34,9 +28,8 @@ h4,
 h5,
 h6 {
     font-weight: normal;
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Cardo", sans-serif;
     color: black;
-    text-transform: uppercase;
     font-weight: 700;
 }
 
@@ -51,17 +44,17 @@ h6 {
 .profilbild {
   height: 250px;
   border-radius: 50%;
-  margin: 50px auto;
+  margin: -60px auto 60px ;
 }
 
 hr {
   border-color: black;
-  border-width: 3.5px;
+  border-width: 2px;
   width: 110px;
   margin-bottom: 40px;
 }
 
-header, section#contact {
+section#angebot, section#contact {
   background-image: url(img/rippe.png)
 }
 
@@ -77,22 +70,18 @@ header img {
 
 header .intro-text{
     text-align: center;
+    font-family: Cardo, serif;
+}
+
+header .intro-text .skills {
+    font-size: 1.75em;
 }
 
 
 @media(min-width:768px) {
     header .container {
-        margin-top: 230px;
-        padding-top: 40px;
+        padding-top: 270px;
         padding-bottom: 100px;
-    }
-
-    section#contact{
-      padding-top: 60px;
-    }
-
-    header .intro-text .name {
-        font-size: 4em;
     }
 
     header .intro-text .skills {
@@ -128,6 +117,11 @@ header .intro-text{
     background-image: url(/img/theater.jpg);
     background-position: left bottom;
     background-size:cover;
+    text-shadow: 0 0 4px black;
+}
+
+.navbar-brand {
+  font-family: Cardo, serif;
 }
 
 .navbar a:focus {
@@ -154,6 +148,11 @@ section {
 section h2 {
     margin: 0;
     font-size: 3em;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3.5em;
 }
 
 @media(max-width:767px) {
@@ -413,6 +412,7 @@ footer .footer-below {
 .navbar-default .navbar-nav>.active>a:active,
 .navbar-default .navbar-nav>.active>a:focus  {
     background-color: #{{ site.color.primary}} !important;
+    text-shadow: none;
 }
 
 .navbar-default .navbar-nav>li>a,
