@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: "Fortune-Teller"-von-Quast-&-Knoblich
 date: 2018-05-09
 img: Fortune Teller Gruppenfoto klein.jpg
 alt: image-alt
