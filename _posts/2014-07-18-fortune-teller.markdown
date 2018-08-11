@@ -6,6 +6,7 @@ img: Fortune Teller Gruppenfoto klein.jpg
 alt: image-alt
 project-date: Mai 2018
 client: Quast & Knoblich
-service: Produktionsleitung
+client-url: http://www.quastknoblich.de
+category: Produktionsleitung
 description: Bei der Wiederaufnahme der Performance "Fortune Teller" in den Sophiensälen in Berlin habe ich die Produktionsleitung übernommen. Das beinhaltete die gemeinsame Erstellung des Finanzplans, die Betreuung des Budgets, die Erstellung von Zeitplänen, die Kommunikation mit dem Spielort und den Beteiligten, die Organisation und Betreuung der Proben und Aufführungen, sowie die Abrechnung des Projekts. 
 ---
