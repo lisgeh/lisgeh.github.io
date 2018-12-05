@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2018-05-09
 img: Fortune Teller.png
-alt: image-alt
+alt: Fotostudio Kaufmann
 project-date: Mai 2018
 client: Quast & Knoblich
 client-url: http://www.quastknoblich.de
