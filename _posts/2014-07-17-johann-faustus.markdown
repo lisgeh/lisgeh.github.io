@@ -4,6 +4,7 @@ modal-id: 2
 date: 2018-09-13
 img: Johann Faustus.png
 alt: image-alt
+credit: Sofie Böhm
 project-date: September 2018
 client: Daniel Schauf / studioNAXOS
 category: Produktionsleitung
