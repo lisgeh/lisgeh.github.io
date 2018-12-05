@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-05-09
-img: Fortune Teller.tif
+img: Fortune Teller.png
 alt: image-alt
 project-date: Mai 2018
 client: Quast & Knoblich
