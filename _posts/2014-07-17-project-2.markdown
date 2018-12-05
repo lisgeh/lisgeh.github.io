@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: Johann Faustus
+date: 2018-09-13
+img: Johann Faustus.png
 alt: image-alt
 project-date: September 2018
 client: Daniel Schauf / studioNAXOS
