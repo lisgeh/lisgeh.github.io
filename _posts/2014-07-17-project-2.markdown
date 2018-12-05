@@ -7,7 +7,6 @@ alt: image-alt
 project-date: September 2018
 client: Daniel Schauf / studioNAXOS
 category: Produktionsleitung
-description: Produktionsleitung bei der Produktion "Johann Faustus" nach dem Libretto von Hanns Eisler  
-Besondere Aufgaben: Akquise von Laiendarsteller*innen und eines Projektchor
+description: Produktionsleitung bei der Produktion "Johann Faustus" nach dem Libretto von Hanns Eisler - besondere Aufgaben: Akquise von Laiendarsteller*innen und eines Projektchor
 
 ---
