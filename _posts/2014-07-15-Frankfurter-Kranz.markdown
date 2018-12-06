@@ -4,6 +4,7 @@ modal-id: 4
 date: 2018-11-10
 img: Frankfurter Kranz.png
 alt: image-alt
+credit: Sofie Böhm
 project-date: November 2018
 client: Jan Philipp Stange
 category: Produktionsleitung
