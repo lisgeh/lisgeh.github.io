@@ -25,10 +25,15 @@
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
-                                    <li>Auftraggeber*in:
-                                        <strong><a target="blank" href="{{ post.client-url }}">{{ post.client }}</a>
-                                        </strong>
-                                    </li>
+                                <li>Auftraggeber*in:
+                                  <strong>
+                                    {% if post.client-url %}
+                                    <a target="blank" href="{{ post.client-url }}">{{ post.client }}</a>
+                                    {% else %}
+                                    {{ post.client }}
+                                    {% endif %}
+                                  </strong>
+                                </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>Zeitraum:
