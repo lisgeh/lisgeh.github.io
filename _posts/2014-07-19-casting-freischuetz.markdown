@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 0
 date: 2018-02-28
 img: Q&K_CF_Cappies_FKS2271aa.jpg
 alt: image-alt
