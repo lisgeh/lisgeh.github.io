@@ -9,6 +9,7 @@ project-date: Februar 2019
 client: Quast & Knoblich
 client-url: http://www.quastknoblich.de
 category: Produktionsleitung
-description: Produktionsleitung bei der Produktion Casting Freischütz des Berliner Performanceduos <a href=\"http://www.quastknoblich.de\">Quast & Knoblich< /a> in den Sophiensälen, Berlin. Förder*innen: Senatsverwaltung für Kultur und Europa und Fonds Darstellende Künste e.V.  
+description: Produktionsleitung bei "Casting Freischütz" von Quast & Knoblich. 
+ <a href=\"http://www.quastknoblich.de\">Quast & Knoblich< /a> in den Sophiensälen, Berlin. Förder*innen: Senatsverwaltung für Kultur und Europa und Fonds Darstellende Künste e.V.  
 ---
 
