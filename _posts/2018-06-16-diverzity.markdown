@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2018-06-16
 img: Diverzity.png
 alt: image-alt

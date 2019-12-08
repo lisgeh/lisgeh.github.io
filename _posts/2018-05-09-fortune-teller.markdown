@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 0
 date: 2018-05-09
 img: Fortune Teller.png
 alt: image-alt
