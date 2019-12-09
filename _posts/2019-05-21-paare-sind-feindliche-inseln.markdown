@@ -9,6 +9,6 @@ project-date: Mai 2019
 project-url: https://www.mousonturm.de/events/paare-sind-feindliche-inseln/
 client: Janna Pinsker und Wicki Bernhardt
 client-url:
-venue: Künstlerhaus Mousonturm
+venue: Künstlerhaus Mousonturm, Frankfurt
 venue-url: https://www.mousonturm.de/
 ---

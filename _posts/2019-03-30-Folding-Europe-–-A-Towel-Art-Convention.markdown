@@ -9,5 +9,5 @@ project-date: März 2019
 project-url: https://www.goethe.de/ins/gb/de/ver.cfm?fuseaction=events.detail&event_id=21492143
 client: Quast & Knoblich
 client-url: http://www.quastknoblich.de
-venue: Site Specific im Lancaster Gate Hotel London im Auftrag des Goethe Institut London im Rahmen der Reihe "Europe Actually"
+venue: Site Specific @ Lancaster Gate Hotel, London im Auftrag des Goethe Institut London im Rahmen von "Europe Actually"
 ---

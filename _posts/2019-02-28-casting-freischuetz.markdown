@@ -9,7 +9,7 @@ project-date: Februar 2019
 project-url: https://sophiensaele.com/de/archiv/stueck/quast-knoblich-casting-freischuetz
 client: Quast & Knoblich
 client-url: http://www.quastknoblich.de
-venue: Sophiensæle Berlin
+venue: Sophiensæle, Berlin
 venue-url: https://sophiensaele.com/
 #description: Produktionsleitung bei "Casting Freischütz" von Quast & Knoblich.
 ---
