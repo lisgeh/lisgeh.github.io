@@ -6,8 +6,9 @@ img: paare sind feindliche inseln.png
 alt: image-alt
 credit: Burning Housewives/Martin Bien
 project-date: Mai 2019
-project-url: https://www.goethe.de/ins/gb/de/ver.cfm?fuseaction=events.detail&event_id=21492143
-client: Quast & Knoblich
-client-url: http://www.quastknoblich.de
-venue: Site Specific im Lancaster Gate Hotel London im Auftrag des Goethe Institut London im Rahmen der Reihe "Europe Actually"
+project-url: https://www.mousonturm.de/events/paare-sind-feindliche-inseln/
+client: Janna Pinsker und Wicki Bernhardt
+client-url:
+venue: Künstlerhaus Mousonturm
+venue-url: https://www.mousonturm.de/
 ---
