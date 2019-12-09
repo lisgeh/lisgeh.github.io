@@ -40,8 +40,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Lisa Gehring
-  - line: Werftstraße 11
-  - line: 60327 Frankfurt am Main
+  - line: Basaltstr. 9
+  - line: 60487 Frankfurt am Main
   - line: <a href="mailto:mail@lisagehring.de">mail@lisagehring.de</a>
 
 # Build settings

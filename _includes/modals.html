@@ -14,17 +14,14 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            {% if post.credit %}
-                            <div style="margin-top:-25px;text-align:right"><small>
-                                Foto/Grafik: {{ post.credit }}
-			    </div></div>
-                            {% endif %}
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
-                            <ul class="list-inline item-details">
+                            <ul class="list-inline item-details" style="list-style:none">
                                 {% if post.client %}
+                            {% if post.project-url %}
+                            <li>Online-Programm: <strong><a target="blank" href="{{ post.project-url }}">{{ post.project-url }}</a></strong></li>
+                            {% endif %}
                                 <li>Auftraggeber*in:
                                   <strong>
                                     {% if post.client-url %}
@@ -41,13 +38,32 @@
                                         </strong>
                                     </li>
                                 {% endif %}
+                                {% if post.venue %}
+                                    <li>Venue:
+                                        <strong>
+                                    {% if post.venue-url %}
+                                    <a target="blank" href="{{ post.venue-url }}">{{ post.venue }}</a>
+                                    {% else %}
+                                          {{ post.venue }}
+                                    {% endif %}
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                <!--
                                 {% if post.category %}
                                     <li>Aufgaben:
                                         <strong>{{ post.category }}
                                         </strong>
                                     </li>
                                 {% endif %}
+                                //-->
                             </ul>
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% if post.credit %}
+                            <div style="margin-top:-25px;text-align:right"><small>
+                                Foto/Grafik: {{ post.credit }}
+                              </small></div></div>
+                            {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
