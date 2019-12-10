@@ -3,7 +3,7 @@ layout: default
 modal-id: 11
 date: 2019-10-11
 title: wabe[ ]ost
-img: wabe_ost.jpg
+img: wabe_ost.jpeg
 alt: image alt
 #credit: Caroline Creutzburg
 project-date: Oktober 2019
