@@ -3,13 +3,13 @@ layout: default
 modal-id: 11
 date: 2019-10-11
 title: wabe[ ]ost
-img: wabe_ost.png
+img: wabe_ost.jpg
 alt: image alt
 #credit: Caroline Creutzburg
 project-date: Oktober 2019
 project-url: https://sophiensaele.com/de/archiv/stueck/caroline-creutzburg-wabe-ost
 client: Caroline Creutzburg
-#client-url: 
+#client-url:
 venue: Sophiensæle, Berlin
 venue-url: https://sophiensaele.com/
 #description: Produktionsleitung bei der Wiederaufnahme der Performance "Fortune Teller" des Berliner Performanceduos <a href="http://www.quastknoblich.de">Quast & Knoblich</a> in den Sophiensälen / Berlin - Erstellung des Finanzplans, Betreuung des Budgets, Erstellen von Zeitplänen, Kommunikation mit Spielort und Beteiligten, Organisation und Betreuung der Proben und Aufführungen, sowie Abrechnung des Projekts.
