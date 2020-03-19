@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 12
-date: 2020-02-108
+date: 2020-02-08
 title: Matter of Facts
 img: matter_of_facts.png
 alt: image alt
