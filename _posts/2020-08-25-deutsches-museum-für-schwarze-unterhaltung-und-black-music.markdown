@@ -3,7 +3,7 @@ layout: default
 modal-id: 13
 date: 2020-08-25
 title: Deutsches Museum für Schwarze Unterhaltung und Black Music
-img: DMSUBM_Icon_Kontur.jpg
+img: DMSUBM_Signatur Kopie.jpg
 alt: image alt
 credit: Justus Gelberg
 project-date: August 2020
