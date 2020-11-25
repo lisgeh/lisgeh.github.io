@@ -1,16 +1,16 @@
 ---
 layout: default
-modal-id: 12
-date: 2020-02-08
-title: Matter of Facts
-img: matter_of_facts.png
+modal-id: 13
+date: 2020-08-25
+title: Deutsches Museum für Schwarze Unterhaltung und Black Music
+img: DMSUBM_Icon_Kontur.jpg
 alt: image alt
-#credit: Institut für Gebrauchsgrafik
-project-date: Februar 2020
-project-url: https://www.mousonturm.de/events/matter-of-facts/
-client: Glogowski / Hoesch
-#client-url:http://www.glogowskihoesch.com/
-venue: Künstlerhaus Mousonturm, Frankfurt
+credit: Justus Gelberg
+project-date: August 2020
+project-url: https://www.mousonturm.de/projects/deutsches-museum-fuer-schwarze-unterhaltung-und-black-music-dmsubm/
+client: Tischkau & Hampe GbR
+client-url: http://dmsubm.de/information
+venue: Künstlerhaus Mousonturm, Frankfurt in Kooperation mit dem Museum Angewandte Kunst
 venue-url: https://www.mousonturm.de/
 #description: Produktionsleitung bei der Wiederaufnahme der Performance "Fortune Teller" des Berliner Performanceduos <a href="http://www.quastknoblich.de">Quast & Knoblich</a> in den Sophiensälen / Berlin - Erstellung des Finanzplans, Betreuung des Budgets, Erstellen von Zeitplänen, Kommunikation mit Spielort und Beteiligten, Organisation und Betreuung der Proben und Aufführungen, sowie Abrechnung des Projekts.
 ---

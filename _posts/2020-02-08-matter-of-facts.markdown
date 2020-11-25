@@ -5,7 +5,7 @@ date: 2020-02-08
 title: Matter of Facts
 img: matter_of_facts.png
 alt: image alt
-#credit: Institut für Gebrauchsgrafik
+credit: Institut für Gebrauchsgrafik
 project-date: Februar 2020
 project-url: https://www.mousonturm.de/events/matter-of-facts/
 client: Glogowski / Hoesch
