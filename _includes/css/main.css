@@ -63,8 +63,12 @@ hr {
   margin-bottom: 40px;
 }
 
-section#angebot, section#contact {
-  background-image: url(img/rippe.png)
+div.gerippt {
+  background-color: #{{ site.color.tertiary }};
+}
+
+div.gerippt > section {
+  background-image: url(img/rippe_trans.png)
 }
 
 header .container {
@@ -159,6 +163,7 @@ section {
 section h2 {
     margin: 0;
     font-size: 3em;
+    text-align: center;
 }
 
 h1 {
