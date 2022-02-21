@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 15
+date: 2021-07-07
+title: Too Much
+img: TooMuch.jpg
+alt: image alt
+credit: Ceren Saner
+project-date: Juli 2021
+project-url: https://sophiensaele.com/de/archiv/stueck/olympia-bukkakis-too-much
+client: Olympia Bukkakis
+client-url: https://olympiabukkakis.com/
+venue: Sophiensæle
+venue-url: https://sophiensaele.com/
+#description: Produktionsleitung bei der Wiederaufnahme der Performance "Fortune Teller" des Berliner Performanceduos <a href="http://www.quastknoblich.de">Quast & Knoblich</a> in den Sophiensälen / Berlin - Erstellung des Finanzplans, Betreuung des Budgets, Erstellen von Zeitplänen, Kommunikation mit Spielort und Beteiligten, Organisation und Betreuung der Proben und Aufführungen, sowie Abrechnung des Projekts.
+---
