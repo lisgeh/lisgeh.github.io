@@ -123,7 +123,8 @@ header .intro-text .skills {
 }
 
 .navbar {
-    background-image: url(/img/theater.jpg);
+    /*background-image: url(/img/theater.jpg);*/
+    background-color: yellow;
     background-position: left bottom;
     background-size:cover;
     text-shadow: 0 0 4px black;
