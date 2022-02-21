@@ -319,7 +319,7 @@ h1 {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #1F1F1F;
 }
 
 footer .footer-above {
