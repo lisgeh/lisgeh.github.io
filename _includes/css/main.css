@@ -127,7 +127,7 @@ header .intro-text .skills {
     background-color: #{{ site.color.primary }};
     background-position: left bottom;
     background-size:cover;
-    text-shadow: 0 0 4px black;
+    /*text-shadow: 0 0 4px black;*/
 }
 
 .navbar-brand {
@@ -327,7 +327,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #3D9970;
+    background-color: #{{ site.color.primary }};
     color: #fff;
 }
 
@@ -432,8 +432,8 @@ footer .footer-below {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:active,
 .navbar-default .navbar-nav>.active>a:focus  {
-    background-color: #{{ site.color.primary}} !important;
-    text-shadow: none;
+    background-color: #{{ site.color.secondary}} !important;
+    /*text-shadow: none;*/
 }
 
 .navbar-default .navbar-nav>li>a,
