@@ -13,9 +13,9 @@ google_verify:
 bing_verify:
 
 color:
-  primary: 3D9970
-  primary-rgb: "61,153,112"
-  secondary: 3D9970
+  primary: BA4D4D
+  primary-rgb: "186,77,77"
+  secondary: 9BC9EC
 
 # Footer settings
 footer:
