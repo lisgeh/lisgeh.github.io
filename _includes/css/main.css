@@ -4,7 +4,7 @@ html {
 body {
     overflow-x: hidden;
     font-family: "Source Sans Pro", serif;
-    color: black;
+    color:  #{{ site.color.quaternary }};
 }
 
 p {
@@ -37,7 +37,7 @@ h5,
 h6 {
     font-weight: normal;
     font-family: "Source Sans Pro", serif;
-    color: black;
+    color: #{{ site.color.quaternary }};
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -57,7 +57,7 @@ h6 {
 }
 
 hr {
-  border-color: black;
+  border-color: #{{ site.color.quaternary }};
   border-width: 4px;
   width: 110px;
   margin-bottom: 40px;
@@ -137,6 +137,10 @@ header .intro-text .skills {
 .navbar-brand {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 700;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default a.navbar-brand, .navbar-default .navbar-nav>li>a:focus, .navbar-default a.navbar-brand:focus {
+    color: #{{ site.color.quaternary }};;
 }
 
 .navbar a:focus {
@@ -319,7 +323,7 @@ h1 {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid ##{{ site.color.quaternary }};;
 }
 
 footer .footer-above {
