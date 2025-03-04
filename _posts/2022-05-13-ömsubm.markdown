@@ -2,7 +2,7 @@
 layout: default
 modal-id: 24
 date: 2022-05-13
-img: ömsubm.jpg
+img: omsubm.jpg
 alt: image alt
 credit: 
 project-date: Mai 2022
