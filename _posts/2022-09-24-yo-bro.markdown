@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 25
+date: 2022-09-24
+img: yo_bro.jpg
+alt: image alt
+credit: Maya Röttger
+project-date: September 2024
+project-url: https://joanatischkau.com/de/projects/yo-bro
+client: Joana Tischkau
+client-url: https://joanatischkau.com/
+venue: Künstler*innenhaus Mousonturm
+venue-url: https://mousonturm.de/
+#description: Produktionsleitung bei der Wiederaufnahme der Performance "Fortune Teller" des Berliner Performanceduos <a href="http://www.quastknoblich.de">Quast & Knoblich</a> in den Sophiensälen / Berlin - Erstellung des Finanzplans, Betreuung des Budgets, Erstellen von Zeitplänen, Kommunikation mit Spielort und Beteiligten, Organisation und Betreuung der Proben und Aufführungen, sowie Abrechnung des Projekts.
+---
