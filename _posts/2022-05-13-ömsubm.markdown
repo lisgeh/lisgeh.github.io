@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 24
+date: 2022-05-13
+img: ömsubm.jpg
+alt: image alt
+credit: 
+project-date: Mai 2022
+project-url: https://joanatischkau.com/de/projects/oemsubm
+client: Joana Tischkau
+client-url: https://joanatischkau.com/
+venue: Wiener Festwochen
+venue-url: https://www.festwochen.at/
+#description: Produktionsleitung bei der Wiederaufnahme der Performance "Fortune Teller" des Berliner Performanceduos <a href="http://www.quastknoblich.de">Quast & Knoblich</a> in den Sophiensälen / Berlin - Erstellung des Finanzplans, Betreuung des Budgets, Erstellen von Zeitplänen, Kommunikation mit Spielort und Beteiligten, Organisation und Betreuung der Proben und Aufführungen, sowie Abrechnung des Projekts.
+---

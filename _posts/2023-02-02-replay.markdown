@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 26
+date: 2023-02-02
+img: replay.jpg
+alt: image alt
+credit: Mayra Wallraff
+project-date: Februar 2023
+project-url: https://sophiensaele.com/de/stueck/olympia-bukkakis-replay
+client: Olympia Bukkakis
+client-url: https://olympiabukkakis.com/
+venue: Sophiensäle
+venue-url: https://sophiensaele.com/
+#description: Produktionsleitung bei der Wiederaufnahme der Performance "Fortune Teller" des Berliner Performanceduos <a href="http://www.quastknoblich.de">Quast & Knoblich</a> in den Sophiensälen / Berlin - Erstellung des Finanzplans, Betreuung des Budgets, Erstellen von Zeitplänen, Kommunikation mit Spielort und Beteiligten, Organisation und Betreuung der Proben und Aufführungen, sowie Abrechnung des Projekts.
+---
